@@ -7,9 +7,9 @@
 #### This repository contains all of the notes taken [Akrem](https://github.com/Akremibrahim/Ligthhousewebnotes.git) for the Lighthouse Labs Web Development Bootcamp.
 
 ## Table of Contents
-* Week 1
-  * Day 1
-  1. Item One
+* [Week 1](/Week_1)
+  * [Day 1](/Week_1/Day_1)
+  1. What_Should_I_Do_for_Lunch_Tips.md
   2. Item Two
   3. Item Three
 
